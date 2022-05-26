@@ -1,2 +1,2 @@
 # ppr_electrical_equipment
-Графики ППР электрооборудования
+https://artirmpletnev.ru/all/formy-dlya-sostavleniya-ppr/
