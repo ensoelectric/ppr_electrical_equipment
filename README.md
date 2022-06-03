@@ -8,4 +8,4 @@
 ## Превью месячного графика ППР
 ![](ppr_month.png)
 
-Дополнительная информация: https://artirmpletnev.ru/all/mesyachny-plan-grafik-otchet-ppr/)
+Дополнительная информация: https://artirmpletnev.ru/all/mesyachny-plan-grafik-otchet-ppr/
