@@ -4,3 +4,8 @@
 ![](ppr_year.png)
 
 Дополнительная информация: https://artirmpletnev.ru/all/formy-dlya-sostavleniya-ppr/
+
+## Превью месячного графика ППР
+![](ppr_month.png)
+
+Дополнительная информация: https://artirmpletnev.ru/all/mesyachny-plan-grafik-otchet-ppr/)
